@@ -1,0 +1,8 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+#message {
+  color: green;
+  font-weight: bold;
+}
